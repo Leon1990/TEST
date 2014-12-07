@@ -18,5 +18,3 @@ int usrAppConfig(void)
     printf("ok!\n");
 }
 
-11111111111111
-
